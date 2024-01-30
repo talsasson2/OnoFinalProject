@@ -1,0 +1,14 @@
+Misrad Hachinuch - Chemyionim
+=================================
+RAM Building        nvr1 10.20.81.210 pass hvi12345
+http://10.20.81.210
+machanayim Building nvr2 10.20.81.217 pass hvi12345
+http://10.20.81.217 
+gateway 10.20.81.254
+password:
+==================================
+Local HCP IP:10.20.90.34
+http://10.20.90.34
+Pass : Maya1973 
+
+==================================

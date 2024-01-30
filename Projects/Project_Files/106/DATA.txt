@@ -1,0 +1,14 @@
+Company : Chevra Kadisha
+==========================
+firewall :OK
+const ip :yes
+security :
+local ip :10.0.0.27 port 90
+exp ip   :37.142.20.16 port 90
+password :Elka7700 XXXXXXXX
+licens   : e7e7-4c71-2042-4ad3-8ebb-19e6-6ec3-38b5
+Teamviewer : 197478374
+             Hvi12345!
+
+NVR PASS : elka7707!
+           hvi12345

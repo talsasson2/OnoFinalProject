@@ -1,0 +1,24 @@
+==================== Tapugan ==========================
+Windows logon : without pass
+Cpu server    : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz   3.19 GHz
+HCP Server local Ip : 192.168.7.4 port 9090
+http://192.168.7.4:9090
+HCP Pass      : Hvi12345
+dvr ( all dvr ) pass : galbex2404
+nvr ( 2 nvr   ) pass : hvi1235
+--------------------- TeamViewer ----------------------
+1 712 567 344
+Pass : Hvi12345!
+-------------------------------------------------------
+dvr1: - http://192.168.7.10		8000
+dvr2: - http://192.168.7.11		8001
+dvr3: - http://192.168.7.12		8002
+dvr4: - http://192.168.7.13		8003
+dvr5: - http://192.168.7.14		8004
+nvr1: - http://192.168.7.198:88		8008	
+nvr2: - http://192.168.7.199:87   sdk : 8007
+
+Tapugan Ext Ip : c.tapugan.co.il
+		 31.168.236.131
+
+Dahua cam Pass : admin1234
